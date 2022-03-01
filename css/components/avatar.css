@@ -1,0 +1,12 @@
+.avatar {
+	width: 700px;
+	margin: 60px auto;
+}
+.avatar img{
+    width: 700px;
+    border-radius: 5px;
+}
+.avatar p {
+	margin: 10px auto;
+  text-align: center;
+  }
